@@ -1,4 +1,5 @@
-/**
+/** Polish Calculator
+ * with Anthony F
  * Created by c4q-joshelynvivas on 3/7/15.
  */
 import java.util.Scanner;
